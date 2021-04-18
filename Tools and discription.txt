@@ -103,3 +103,4 @@ The default way is to store user data and credentials in an internal database.
 Configure Jenkins to use the authentication mechanism defined by the application server on which it is deployed.
 Configure Jenkins to authenticate against LDAP server.
 
+
